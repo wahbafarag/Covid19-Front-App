@@ -1,0 +1,747 @@
+.navbar-nav{
+   
+    z-index: 3;
+    font-size: 20px;
+    margin: auto;
+}
+
+
+.navbar-nav .nav-item .nav-link{
+    color: rgb(41, 41, 110);
+    padding-right: 20px;
+  
+    
+}
+.navbar-nav .nav-item :hover.nav-link{
+    color: rgb(0, 195, 255);
+    
+}
+
+  
+i{
+    color: red;
+   
+}
+.navbar-brand{
+    margin-left: 50px;
+    font-size: 30px ;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    
+}
+.form-inline .btn{
+    border-radius: 50px;
+    background-color:rgb(14, 143, 182) ;
+    border: white;
+    color: white;
+    height: 50px;
+    margin-right: 50px;
+}
+.hn{
+    color: rgb(41, 41, 110);
+   font-family: 'Oswald', sans-serif;
+}
+.h19{
+    color: rgb(60, 60, 145);
+    font-family: 'Oswald', sans-serif;
+    
+    
+}
+header{
+    background-color: #f3f5f7;
+    background-image:url(../images/bg.png);
+}
+.hi{
+    width: 99%;
+    height: 100%;
+   margin: auto;
+}
+.media{
+    margin:auto;
+}
+.media h1{
+    font-size: 60px;
+    font-weight: 900;
+    color: #50658e;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    
+}
+.media span h3{
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #FF5363;
+    font-family :'Oswald', sans-serif;
+    margin-top: 14px;
+    
+}
+.media span h2{
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #50658e;
+    font-family: 'Oswald', sans-serif;
+
+}
+.media-body{
+    margin-left: 40px;
+}
+.media-body p{
+    font-size: 16px;
+    color: #3d5688;
+    font-family: 'Oswald', sans-serif;
+   margin-bottom: 40px;
+}
+#dm{
+    border-radius: 50px;}
+    
+.pro{
+    color:white;
+}
+.media-body .pm{
+
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+   
+}
+.media h6{
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(97, 97, 206);
+    margin-top: 40px;
+    font-weight: bold;
+}
+.ar{
+    color: rgb(16, 119, 187);
+}
+#ab{
+    color:rgb(16, 119, 187) ;
+    margin-left: 50px;
+    font-size: 20px;
+    
+}
+.ff{
+    margin-top: 40px;
+    font-size: 12px;
+    font-style: italic;
+    color:rgb(16, 119, 187) ;
+    
+}
+#about .media-body{
+    margin: 50px;
+}
+#about  .list-group {
+   margin: 40px;
+   float: right ;
+  
+}
+#about .media-body .abb{
+    color: rgb(16, 119, 187);
+    font-family: 'Oswald', sans-serif ;
+}
+#about .media-body h5{
+    
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+}
+#about .media-body h2{
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+    font-size: 30px ;
+    
+
+}
+#about .media-body h4{
+    color: rgb(41, 41, 110);
+    font-size: 20px;
+
+}
+#about .media .list-group-item h4{
+    color: rgb(41, 41, 110);
+
+}
+#about .media .list-group-item .ar{
+  padding-right: 50%;
+}
+#dad{
+     background-color: #f3f5f7;
+     text-align: center;
+     
+
+}
+#dad h5{
+    text-align: center;
+    color: rgb(16, 119, 187);
+    margin-top: 20px;
+}
+#dad h2{
+    text-align: center;
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+}
+#dad .card .card-img-top{
+   border-bottom: cornflowerblue solid 8px;
+    
+}
+#dad .card{
+    margin: auto;
+}
+#dad .btn{
+    text-align: center;
+    margin-top: 50px ;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    height: 50px;
+    width: 300px;
+}
+#dad .btn .far{
+    color: white;
+    padding-right: 10px;
+    
+}
+
+#symptoms{
+  
+    text-align: center;
+    background-color: #f3f5f7;
+
+}
+#symptoms h5{
+   text-align: center;
+   color: rgb(16, 119, 187);
+   margin-top: 20px;
+}
+#symptoms h2{
+   text-align: center;
+   color: rgb(41, 41, 110);
+   font-family: 'Oswald', sans-serif ;
+   font-weight: bold;
+}
+#symptoms .card .card-img-top{
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 60%;
+    
+    
+}
+#symptoms .card{
+    border: none;
+    background-color: #f3f5f7;
+}
+#symptoms .card .card-body{
+    background-color: white;
+}
+#symptoms .sf{
+    margin: 50px;
+}
+#symptoms  .fa-exclamation-triangle{
+    color: rgb(16, 119, 187);
+
+  
+}
+#symptoms .sf p{
+    display: inline;
+    color: rgb(41, 41, 110) ;
+    font-style: italic;
+    
+}
+#symptoms .sf span{
+    color: rgb(16, 119, 187);
+    font-weight: bold;
+    font-style: normal;
+
+}
+#symptoms .sf .btn{
+    margin-bottom: 50px;
+    border-radius: 50px;
+    height: 50px;
+    margin-top: 50px;
+    width: 270px;
+   
+}
+#symptoms .sf .btn .far{
+    color: white;
+    padding-right: 10px;
+    
+}
+#protect{
+    background-color: white;
+    text-align: center;
+    
+
+}
+#protect h5{
+   text-align: center;
+   color: rgb(16, 119, 187);
+   margin-top: 20px;
+}
+#protect h2{
+   text-align: center;
+   color: rgb(41, 41, 110);
+   font-family: 'Oswald', sans-serif ;
+   font-weight: bold;
+}
+#protect .card{
+    border: none;
+   
+}
+#protect .card img{
+    border-radius: 50%;
+    width: 100px;
+    margin: auto;
+}
+#protect .btn{
+    margin-bottom: 30px;
+    border-radius: 50px;
+    height: 50px;
+    margin-top: 50px;
+   
+    font-size: 20px;
+   
+}
+#protect .btn .ar{
+    color: white;
+    padding-right: 10px;
+    margin-left: 20px;
+
+    
+}
+#protect .ab{
+  text-align: center;
+}
+.steps{
+    background-color: #f3f5f7;
+    margin-top: 50px;
+    
+
+}
+.steps .media{
+    background-color: white;
+    margin: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    margin-bottom: 70px;
+}
+.steps .media h2{
+    margin-top: 100px;
+    padding: 20px;
+}
+.steps .media .hii{
+    width: 99%;
+    height: 100%;
+   margin: auto;
+}
+.steps .media span{
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+
+}
+.steps .media .far{
+    color: green;
+}
+.steps .media p{
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    
+}
+.hh2{
+    text-align: center;
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+
+}
+#abb{
+    text-align: center;
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+    margin-top: 30px;
+
+}
+.steps  .list-group{
+    list-style: none;
+    margin-top: 40px;
+    padding: 0;
+    border: none;
+}
+.steps  .list-group-item{
+    list-style: none;
+    border: none;
+}
+.steps  .list-group .list-group-item .icon .fas {
+    margin-right: 10px;
+    color: #32c28b;
+}
+.steps  .hii{
+    width: 99%;
+    height: 100%;
+}
+.steps .hh2{
+    margin-top: 50px;
+}
+.steps .stepimg{
+    border-radius: 50%;
+    width: 150px;
+}
+.steph{
+    text-align: center;
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+#treatment{
+    background-image: url(../images/bg.png);
+    background-color: #2766bb;
+    
+    
+}
+#treatment .media-body h4{
+    color:cyan;
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+    margin-top: 30px;
+    padding-top: 30px;
+
+}
+#treatment .media-body h3{
+    color: white;
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+}
+#treatment .media-body p{
+    color: white;
+}
+#treatment .media-body span{
+    color: white;
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+}
+#treatment .treat{
+    background-color: #183e70 ;
+    border-radius: 40px;
+    color: white;
+    margin-top: 20px;
+}
+#treatment .treat .ar{
+    color: white;
+}
+#treatment .treat h6{
+    color: white;
+}
+.do h2{
+    text-align: center;
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+
+}
+.do h6{
+    text-align: center;
+   color: rgb(16, 119, 187);
+   margin-top: 20px;
+
+}
+.do{
+    background-color: #f3f5f7;
+}
+.wrong{
+    position: absolute;
+    color: red;
+    left: 67%;
+}
+.right .fas{
+    position: absolute;
+    color: lightgreen;
+    left: 32%;
+}
+
+
+#protect .col-4 img{
+
+    background-color: #fff;
+    border: 2px solid blue;
+    border-radius: 50px;
+}
+#protect p{
+    color: #2a81ea;
+    font-size: 14px;
+}
+
+.trWrong{
+    order: 1;
+}
+.trMid{
+    order: 2;
+}
+.trRight{
+    order: 3;
+}
+@media (max-width: 990px){
+    .trWrong{
+        order: 2;
+    }
+    .trMid{
+        order: 1;
+    }
+    .trRight{
+        order: 3;
+    }
+}
+.pro2{
+    background-color: #f3f5f7;
+}
+.do #protect{
+    background-color: #f3f5f7;
+
+}
+#fqa h2{
+    text-align: center;
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+}
+#fqa h6{
+    text-align: center;
+   color: rgb(16, 119, 187);
+   margin-top: 20px;
+}
+#fqa .media .media-body button{
+    background-color: white;
+    border: solid 0.5  ;
+    border-radius: 8px;
+    color: rgb(16, 119, 187);
+    margin-bottom: 10px;
+    width: 280px;
+    height: 50px;
+    border-color: rgb(16, 119, 187);
+}
+#fqa .tg{
+    margin-left: auto;
+}
+#news h2{
+    text-align: center;
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+}
+#news h6{
+    text-align: center;
+   color: rgb(16, 119, 187);
+   margin-top: 20px;
+}
+#news{
+    background-color: #f3f5f7;
+}
+#news .card{
+  margin: auto;
+  border-radius: 30px;
+}
+#news .card img{
+    border-radius: 20px;
+}
+#news .card h4{
+    color: rgb(41, 41, 110);
+    font-family: 'Oswald', sans-serif ;
+    font-weight: bold;
+
+}
+.footer{
+    background-color: rgb(18, 18, 61);
+    background-image: url(../images/bg.png);
+    color: white;
+
+}
+.footer .fab{
+    color: gray;
+    width: 60px;
+    height: 60px;
+}
+.footer hr{
+   height: 2px;
+    background-color: gray;
+    text-align: center;
+}
+.footer a{
+    color:rgb(82, 82, 226) ;
+}
+.footer h4{
+    margin-top: 20px;
+}
+.footer .moon{
+    color: white;
+    
+}
+
+.dark{
+    background-color: black;
+    color: grey;
+
+
+}
+.dark .footer{
+    background-color:rgb(34, 32, 32);
+}
+.dark header{
+    background-color: black;
+    color: white;
+}
+.dark #symptoms{
+    background-color: black;
+    color: gray;
+}
+.dark #protect , .dark .pro2 ,.dark #treatment ,.dark #fqa , .dark .media , .dark #about , .dark #dad, .dark .sf, .dark .steps {
+    background-color: black;
+    color: gray;
+}
+.dark .dad{
+    background-color: black;
+    color: gray;
+
+}
+.dark li{
+    background-color: black;
+    color: gray;
+
+}
+.dark .card {
+    background-color: rgb(34, 32, 32);
+    color: gray;
+
+}
+.dark #news {
+    background-color: black;
+    color: gray;
+
+}
+.dark .card-body{
+    background-color: rgb(37, 37, 37);
+}
+.dark #symptoms .card-body{
+    background-color: rgb(37, 37, 37);
+
+}
+.footer .sun{
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+.rreedd{
+    background-color:#ff6666;
+    color: black;
+}
+
+.rreedd .footer{
+    background-color:#ff6666;
+    color: black;
+}
+.rreedd header{
+    background-color:#ff6666;
+    color: black;
+}
+.rreedd #symptoms{
+    background-color:#ff6666;
+    color: black;
+}
+.rreedd #protect , .rreedd .pro2 ,.rreedd #treatment ,.rreedd #fqa , .rreedd .media , .rreedd #about , .rreedd #dad, .rreedd .sf, .rreedd .steps {
+    background-color:#ff6666;
+    color: black;
+}
+.rreedd .dad{
+    background-color:#ff6666;
+    color: black;
+
+}
+.rreedd li{
+    background-color:#ff6666;
+    color: black;
+
+}
+.rreedd .card {
+    background-color: rgb(34, 32, 32);
+    color: gray;
+
+}
+.rreedd #news {
+    background-color:#ff6666;
+    color: black;
+
+}
+.rreedd .card-body{
+    background-color: rgb(37, 37, 37);
+}
+.rreedd #symptoms .card-body{
+    background-color: rgb(37, 37, 37);
+
+}
+.footer .flower{
+    color: rgb(146, 37, 146);
+}
+.puurple{
+    background-color: #e066ff;
+    color: white;
+}
+
+.puurple .footer{
+    background-color: #e066ff;
+    color: white;
+}
+.puurple header{
+    background-color: #e066ff;
+    color: white;
+}
+.puurple #symptoms{
+    background-color: #e066ff;
+    color: white;
+}
+.puurple #protect , .puurple .pro2 ,.puurple #treatment ,.puurple #fqa , .puurple .media , .puurple #about , .puurple #dad, .puurple .sf, .puurple .steps {
+    background-color: #e066ff;
+    color: white;
+}
+.puurple .dad{
+    background-color: #e066ff;
+    color: white;
+
+}
+.puurple li{
+    background-color: #e066ff;
+    color: white;
+
+}
+.puurple .card {
+    background-color: #e066ff;
+    color: white;
+
+}
+.puurple #news {
+    background-color: #e066ff;
+    color: white;
+
+}
+.puurple .card-body{
+    background-color: #e066ff;
+    color: white;
+}
+.puurple #symptoms .card-body{
+    background-color: #e066ff;
+    color: white;
+
+}
+.up{
+    color: rgb(92, 92, 252);
+    
+}
+
+
+
+
+
+
+
